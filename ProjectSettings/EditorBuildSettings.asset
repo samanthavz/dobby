@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: ccd2479c3c362473ca8e211acbb4a86c
+  - enabled: 1
+    path: Assets/Scenes/Cutscene1.unity
+    guid: d378aaf633eca4650985a4ca5260f037
+  - enabled: 1
+    path: Assets/Scenes/basement1.unity
+    guid: adaf4d33759a849ad8a08fb3e4946daf
+  - enabled: 1
+    path: Assets/Scenes/Hall1.unity
+    guid: c9410ad4701ab4018a5448b635fdbe98
+  - enabled: 1
+    path: Assets/Scenes/Kitchen1.unity
+    guid: 779f97bdd1b694a6ebf43e0b08c80209
+  - enabled: 1
+    path: Assets/Scenes/Cutscene2.unity
+    guid: 874761a4c96794b7a89996b28e353b06
+  - enabled: 1
+    path: Assets/Scenes/Diagonalley.unity
+    guid: 9310b72955a1e4ec1a3b436aff5a6d73
+  - enabled: 1
+    path: Assets/Scenes/Cutscene3.unity
+    guid: c2e7ce5497313409c87940ff60e78ac2
+  - enabled: 1
+    path: Assets/Scenes/DiningRoom1.unity
+    guid: 19d23b9a7760f44638bf0be9c5fb761c
+  - enabled: 1
+    path: Assets/Scenes/Hall2Goed.unity
+    guid: 04826d288507748b28ca9162de0d2d4a
+  - enabled: 1
+    path: Assets/Scenes/Hall2Slecht.unity
+    guid: bbe8771fe61084258a55b283342a3040
+  - enabled: 1
+    path: Assets/Scenes/Cutscene4.unity
+    guid: baea986ba57ec437e8bd2fdc612a0a58
+  - enabled: 1
+    path: Assets/Scenes/Basement2.unity
+    guid: d9774c52713104f66b69b0aac20e075a
+  - enabled: 1
+    path: Assets/Scenes/Hall2.unity
+    guid: e905ee362119642d3af339a8f2465525
+  - enabled: 1
+    path: Assets/Scenes/Studyroom.unity
+    guid: 08cf9d83ef698411fbfdb0e11c09bae2
+  - enabled: 1
+    path: Assets/Scenes/Cutscene5Bad.unity
+    guid: 5129773e6ed6248ce8554173f9443510
+  - enabled: 1
+    path: Assets/Scenes/Cutscene5Good.unity
+    guid: 00478a8c577a341aeac79255e5f7f0ed
+  - enabled: 1
+    path: Assets/Scenes/DiningRoom2Bad.unity
+    guid: ca3efa89fc13a4f1f8cd67d025db75ec
+  - enabled: 1
+    path: Assets/Scenes/DiningRoom2Good.unity
+    guid: 7ff312be412f54f659e6ad825e841e5f
+  - enabled: 1
+    path: Assets/Scenes/Cutscene6.unity
+    guid: f69b470631d404c52b03965c5eef939a
+  - enabled: 1
+    path: Assets/Scenes/Hall3Goed.unity
+    guid: c3e722e09d548444a84e965ccb67ee53
+  - enabled: 1
+    path: Assets/Scenes/Hall3Slecht.unity
+    guid: 3ea677232c07f42468671b222270cb69
+  - enabled: 1
+    path: Assets/Scenes/Basement3B.unity
+    guid: edc3baabf23c24b289e451cedddba95d
+  - enabled: 1
+    path: Assets/Scenes/Basement3G.unity
+    guid: 06ad86837820247129d2436345b20c2e
+  - enabled: 1
+    path: Assets/Scenes/BadEnding.unity
+    guid: eaa4967ea71f34699bc1bf03e6d8b197
+  - enabled: 1
+    path: Assets/Scenes/GoodEnding.unity
+    guid: 30d12c26197db4ac98fecc0c5b994a2c
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 0982cc772ffcd4977a04186c18435fd5
+  m_configObjects: {}

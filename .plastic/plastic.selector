@@ -1,0 +1,4 @@
+repository "Dobby@Rosalas@cloud"
+  path "/"
+    smartbranch "/main/test"                    
+     
